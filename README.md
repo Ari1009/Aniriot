@@ -8,9 +8,9 @@
 
 ## Stacks
 
-- #### flutter
-- #### Dart
-- #### jikan-api
+-  flutter
+-  Dart
+-  jikan-api
 
 
 ## ScreenShots
@@ -19,7 +19,7 @@
 
 ## Brief About App
 
-Parsing require data from website and serve anime with Ads FREE :bangbang:
+Parsing require data from website and serve anime!!!!
 
 ### Features
 
