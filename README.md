@@ -8,9 +8,9 @@
 
 ## Stacks
 
-- #### flutter
-- #### Dart
-- #### jikan-api
+-  flutter
+-  Dart
+-  jikan-api
 
 
 ## ScreenShots
