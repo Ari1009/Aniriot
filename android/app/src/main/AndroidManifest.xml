@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.tako_play">
+    package="com.example.ani_riot">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="TakoPlay"
+        android:label="Aniriot"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true" >
         <activity
