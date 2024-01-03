@@ -1,4 +1,5 @@
-# Tako Play
+# Aniriot
+
 
 <p align="center"><a href="https://github.com/Arihant1009/Aniriot"><img src="assets/images/logo.png" width="150" height="auto" style="border-radius:60%"></a></p>
 
